@@ -28,7 +28,7 @@ The Caesar Cipher is a classic method of encryption that shifts the letters of t
 
 ## How to Use:
 
-1. Visit the [Caesar Cipher Web App](http://reefsalty.co.uk/CaesarCipher/).
+1. Visit the [Caesar Cipher Web App](https://reefsalty.co.uk/CaesarCipher).
 2. Enter text for encryption or decryption.
 3. Adjust the shift value using the slider.
 4. Choose "Encrypt" or "Decrypt" to see the magic happen.
