@@ -25,7 +25,7 @@ You can check out my mini-projects and coding endeavors on my GitHub:
 ## Contact Me
 Feel free to reach out to me for collaborations or just to chat about technology and aviation!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue)](linkedin.com/in/reefsalter/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue)](https://linkedin.com/in/reefsalter/)
 [![Email](https://img.shields.io/badge/Email-reefsalty%40email.com-blue)](mailto:hi@reefsalty.co.uk)
 
 ---
