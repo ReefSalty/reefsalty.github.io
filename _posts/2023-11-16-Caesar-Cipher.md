@@ -45,7 +45,7 @@ I welcome contributions! If you're interested in improving or adding new feature
 
 ## License:
 
-This project is proudly licensed under the [MIT License](LICENSE).
+This project is proudly licensed under the MIT License.
 
 I hope you find this tool both fun and educational. Cryptography has always been a fascinating area for me, and I'm glad to share this passion through my web app.
 
