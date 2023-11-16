@@ -19,14 +19,14 @@ You can check out my mini-projects and coding endeavors on my GitHub:
 
 ## Dynamic Status
 - **Website Views:** ![Views](https://visitor-badge.glitch.me/badge?page_id=ReefSalty.ReefSalty)
-- **Website Downtime/Uptime:** ![Uptime Robot status](https://img.shields.io/uptimerobot/status/mYOUR_MONITOR_API_KEY)
+- **Website Downtime/Uptime:** ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m795684080-ddf221ed03da6894907f117e)
 - **Last GitHub Commit:** ![GitHub last commit](https://img.shields.io/github/last-commit/ReefSalty/ReefSalty)
 
 ## Contact Me
 Feel free to reach out to me for collaborations or just to chat about technology and aviation!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue)](Your-LinkedIn-Profile-URL)
-[![Email](https://img.shields.io/badge/Email-reefsalty%40email.com-blue)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue)](linkedin.com/in/reefsalter/)
+[![Email](https://img.shields.io/badge/Email-reefsalty%40email.com-blue)](mailto:hi@reefsalty.co.uk)
 
 ---
 
