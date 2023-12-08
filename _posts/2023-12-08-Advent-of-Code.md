@@ -43,4 +43,4 @@ Feel free to join me in this festive coding extravaganza! If you're also partici
 Thank you for joining me on this Advent of Code journey! I look forward to sharing my experiences, challenges, and solutions with you all. Stay tuned for daily updates on the [Advent of Code Repository](https://github.com/ReefSalty/AoC).
 
 Cheers,
-[Your Name]
+ReefSalty
